@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">true</item>
+		<item name="copyright"><![CDATA[
+ You Name (C) 2009   Name
+		]]></item>
+		<item name="companyName">Agrofar</item>
+		<item name="slogan">AUTOMACAO AGRICOLA</item>
+		<item name="heder_txt1"><![CDATA[<a href="www.studiomidiamix.com.br" target="_blank"type="link" >www.studiomidiamix.com.br</a>]]></item>
+		<item name="heder_txt2"><![CDATA[<a href="asfunction:link">Area Restrita</a>]]></item>
+		<image imageUrl="_logo.png" />
+	</section>
+	
+	<!-- menu -->
+<section name="menu">
+<link systemOrder="1"><![CDATA[
+EMPRESA
+]]></link>
+
+<link systemOrder="2"><![CDATA[
+PRODUTOS
+]]></link>
+
+<link systemOrder="3"><![CDATA[
+PROJETOS RECENTES
+]]></link>
+
+<link systemOrder="4">
+<![CDATA[
+CLIENTES
+]]></link>
+
+<link systemOrder="5">
+<![CDATA[
+CONTATO
+]]></link>
+
+</section>
+	
+<section name="global_img">
+		<image imageUrl="_big_pic1.jpg" />
+		<image imageUrl="_big_pic2.jpg" />
+		<image imageUrl="_big_pic3.jpg" />
+		<image imageUrl="_big_pic4.jpg" />
+		<image imageUrl="_big_pic5.jpg" />
+		<image imageUrl="_big_pic6.jpg" />
+		
+				
+		<image imageUrl="_menu_pic1.png" />
+		<image imageUrl="_menu_pic2.png" />
+		<image imageUrl="_menu_pic3.png" />
+		<image imageUrl="_menu_pic4.png" />
+		<image imageUrl="_menu_pic5.png" />
+
+</section>	
+	
+	<!-- pages -->
+	<section name="pages">
+		
+		 
+<page name="EMPRESA">
+<image imageUrl="_pic1.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+Bem Vindo, Caro Visitante! <br>
+<font color="#616c65">OBRIGADO POR VISITAR O NOSSO SITE DA EMPRESA</font>
+<br><br>
+<font color="#777777">FUSCE EUISMOD CONSEQUAT ANTE. LOREM IPSUM DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT. PELLEN
+TESQUE SED DOLOR. ALIQUAM CONGUE FERMENTUM NISL. MAURIS ACCUMSAN NULLA VEL DIAM. SED IN LACUSUT ENIM ADIPISCING ALIQUET. NULLA VENENATISIN PEDE MI, ALIQUET SIT AMET, EUISMOD IN, AUCTOR UT, LIGULA. 
+ALIQUAM DAPIBUS TINCIDUNT METUSAESENT JUSTO DOLOR, LOBORTIS QUIS.</font>
+]]></pageText>
+
+<pageText><![CDATA[
+INDUSTRY SERVICES
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#616c65"><a href="asfunction:link">
+>> <u>EXCAVATION</u><br>
+>> <u>BULK EARTHWORKS</u><br>
+>> <u>EARTHMOVING</u><br>
+>> <u>CLEARING, GRUBBING</u><br>
+>> <u>TOPSOIL STRIPPING</u><br>
+>> <u>CONCRETING</u><br>
+>> <u>DRILLING</u><br>
+>> <u>GROUND STABILISATION</u><br>
+>> <u>SHOTCRETING</u>
+</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#616c65"><a href="asfunction:link">
+>> <u>DURABLE GOODS</u><br>
+>> <u>INDUSTRIAL PRODUCTS</u><br>
+>> <u>INSURANCE</u><br>
+>> <u>MEDIA AND ENTERTAINMENT</u><br>
+>> <u>NATURAL RESOURCES</u><br>
+>> <u>RAW MATERIALS PRODUCERS</u><br>
+>> <u>MILL PRODUCTS</u><br>
+>> <u>OIL AND GAS</u><br>
+>> <u>UPSTREAM</u><br>
+</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<u>JOHN SMITH</u>
+<br><br>
+<font color="#010101">FUSCE EUISMOD CONSEQU
+ANTE. LOREM IPSUM DOLORT AMET, CONSECTE... </font>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,0">MORE</a></font>
+]]></pageText>
+
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 1
+]]></item>
+<item name="linkText"><![CDATA[
+<font color="#ffffff">LOREM IPSUM DOLOR SIT AMET,</font> CONSECTETUR ADIPISCING ELIT. SUSPENDISSE A ANTE. INTEGER NON TORTOR. LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. NULLAM FAUCIBUS VEHICULA MI. NULLA VIVERRA, AUGUE A ACCUMSAN ULTRICES, LIBERO ARCU GRAVIDA VELIT, A SOLLICITUDIN DUI TURPIS EU FELIS. SED MI. IN FERMENTUM ARCU AUCTOR ERAT. NULLA VITAE EST. FUSCE ORNARE. DONEC MAGNA SEM, EUISMOD IN, LAOREET UT, ULLAMCORPER LOBORTIS, FELIS. ALIQUAM FERMENTUM RISUS AC AUGUE. CURABITUR FELIS. PELLENTESQUE IMPERDIET PURUS SIT AMET ENIM. NAM ACCUMSAN RHONCUS QUAM. SUSPENDISSE ET JUSTO.
+<br><br>
+<font color="#ffffff">ALIQUAM ERAT VOLUTPAT.</font> MAURIS PLACERAT, DIAM AT SODALES SUSCIPIT, ERAT ELIT PELLENTESQUE LIBERO, SIT AMET MATTIS NUNC LOREM ID FELIS. SED EST MAGNA, SOLLICITUDIN QUIS, SEMPER NEC, FERMENTUM IN, MAGNA. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE; QUISQUE MAGNA. MAECENAS VULPUTATE. SED MOLLIS AUCTOR NEQUE. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS. AENEAN EGET METUS EU NISL FRINGILLA DAPIBUS. NAM VITAE SEM EGET JUSTO ALIQUAM RHONCUS. IN HAC HABITASSE PLATEA DICTUMST.
+<br><br>
+<font color="#ffffff">VIVAMUS NUNC URNA, CONGUE UT,</font> ULLAMCORPER AT, LAOREET IN, EROS. MORBI PRETIUM NIBH VEL URNA. INTEGER MAGNA LIGULA, ADIPISCING NON, PULVINAR ET, PORTTITOR ID, NISI. ALIQUAM RUTRUM DUI EGET NUNC EGESTAS FAUCIBUS. VESTIBULUM MOLESTIE LACUS QUIS EST. NUNC CONGUE. DONEC LOREM MAGNA, SCELERISQUE QUIS, FERMENTUM ET, ULTRICIES SIT AMET, EST. VESTIBULUM VESTIBULUM INTERDUM MI. PELLENTESQUE CONDIMENTUM. SUSPENDISSE VITAE VELIT.
+<br><br>
+<font color="#ffffff">CRAS IN LOREM. PHASELLUS MAGNA NUNC,</font> SUSCIPIT EGET, PORTA UT, LOBORTIS IN, VELIT. SED HENDRERIT CURSUS DIAM. AENEAN A LEO. DONEC LECTUS. CURABITUR ULLAMCORPER, SEM AC TURPIS EGESTAS. UT EGET NUNC AC AUGUE GRAVIDA ELEIFEND. SED DIGNISSIM ANTE VOLUTPAT NIBH. PRAESENT DIAM. MAURIS PRETIUM ANTE EGET JUSTO FERMENTUM SODALES. CRAS QUIS SEM EU RISUS EGESTAS AUCTOR. ETIAM LIGULA. MORBI JUSTO. 
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 2
+]]></item>
+<item name="linkText"><![CDATA[
+<font color="#ffffff">LOREM IPSUM DOLOR SIT AMET,</font> CONSECTETUR ADIPISCING ELIT. SUSPENDISSE A ANTE. INTEGER NON TORTOR. LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. NULLAM FAUCIBUS VEHICULA MI. NULLA VIVERRA, AUGUE A ACCUMSAN ULTRICES, LIBERO ARCU GRAVIDA VELIT, A SOLLICITUDIN DUI TURPIS EU FELIS. SED MI. IN FERMENTUM ARCU AUCTOR ERAT. NULLA VITAE EST. FUSCE ORNARE. DONEC MAGNA SEM, EUISMOD IN, LAOREET UT, ULLAMCORPER LOBORTIS, FELIS. ALIQUAM FERMENTUM RISUS AC AUGUE. CURABITUR FELIS. PELLENTESQUE IMPERDIET PURUS SIT AMET ENIM. NAM ACCUMSAN RHONCUS QUAM. SUSPENDISSE ET JUSTO.
+<br><br>
+<font color="#ffffff">ALIQUAM ERAT VOLUTPAT.</font> MAURIS PLACERAT, DIAM AT SODALES SUSCIPIT, ERAT ELIT PELLENTESQUE LIBERO, SIT AMET MATTIS NUNC LOREM ID FELIS. SED EST MAGNA, SOLLICITUDIN QUIS, SEMPER NEC, FERMENTUM IN, MAGNA. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE; QUISQUE MAGNA. MAECENAS VULPUTATE. SED MOLLIS AUCTOR NEQUE. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS. AENEAN EGET METUS EU NISL FRINGILLA DAPIBUS. NAM VITAE SEM EGET JUSTO ALIQUAM RHONCUS. IN HAC HABITASSE PLATEA DICTUMST.
+<br><br>
+<font color="#ffffff">VIVAMUS NUNC URNA, CONGUE UT,</font> ULLAMCORPER AT, LAOREET IN, EROS. MORBI PRETIUM NIBH VEL URNA. INTEGER MAGNA LIGULA, ADIPISCING NON, PULVINAR ET, PORTTITOR ID, NISI. ALIQUAM RUTRUM DUI EGET NUNC EGESTAS FAUCIBUS. VESTIBULUM MOLESTIE LACUS QUIS EST. NUNC CONGUE. DONEC LOREM MAGNA, SCELERISQUE QUIS, FERMENTUM ET, ULTRICIES SIT AMET, EST. VESTIBULUM VESTIBULUM INTERDUM MI. PELLENTESQUE CONDIMENTUM. SUSPENDISSE VITAE VELIT.
+<br><br>
+<font color="#ffffff">CRAS IN LOREM. PHASELLUS MAGNA NUNC,</font> SUSCIPIT EGET, PORTA UT, LOBORTIS IN, VELIT. SED HENDRERIT CURSUS DIAM. AENEAN A LEO. DONEC LECTUS. CURABITUR ULLAMCORPER, SEM AC TURPIS EGESTAS. UT EGET NUNC AC AUGUE GRAVIDA ELEIFEND. SED DIGNISSIM ANTE VOLUTPAT NIBH. PRAESENT DIAM. MAURIS PRETIUM ANTE EGET JUSTO FERMENTUM SODALES. CRAS QUIS SEM EU RISUS EGESTAS AUCTOR. ETIAM LIGULA. MORBI JUSTO. 
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="Served">
+
+<texts>
+
+<pageText><![CDATA[
+<font size="12">PRODUTOS</font>
+<br><br>
+<font color="#973126">AGRICULTURA DE PRECISAO </font><br>
+<font color="#777777"><p align="justify">Apos tres anos estudando, projetando e testando equipamentos para aplicação dos fertilizantes com taxa variavel, a Agrofar desenvolveu um equipamento que pode ser instalado em plantadeiras e outras maquinas de aplicação de fertilizantes.
+<br><br>
+O sistema de coleta de amostras do solo acoplado ao trator e o programa de geracao de mapas sao os principais diferenciais do equipamento da Agrofar,
+e nenhuma outra empresa do mundo os disponibiliza. Com ele, o agricultor não depende de empresa terceirizada para coletar as amostras, reduzindo 
+consideravelmente o custo da implementacao da agricultura de precisao. Desta forma, diferentemente das demais empresas do mercado, nosso equipamento
+comporta a implementacao em pequenas e medias propriedades.</p><br>
+<font color="#973126">OUTROS DIFERENCIAIS.</font><br>
+- Produto com facil operacao;<br>
+-  Assistencia tecnica local;<br>
+- Maior durabilidade, por se tratar de tela touch-screen;<br>
+- Custo menor em relacao a concorrencia;<br>
+- Compativel com qualquer marca de plantadeiras e aplicadores de fertilizantes;<br>
+- Software totalmente nacional;<br>
+- Todas as funcoes sao acionadas atraves do computador de bordo;<br>
+- Precisao na distribuicao das sementes e dos fertilizantes.<br>.<br>
+<font color="#973126">VANTAGENS.</font><br>
+- Tecnologia moderna e eficiente com excelente custo-beneficio;<br>
+- Reducao dos custos com fertilizantes;<br>
+- Correcao e equilibrio do solo;<br>
+- Aumento da produtividade;<br>
+- Producao homogenea em toda a area;<br>
+- Reducao dos impactos ambientais causados pelos fertilizantes quimicos;<br>
+- Identificar fatores determinantes de diferencas na producao;<br>
+- Eliminar correntes nas plantadeiras.<br>
+</font>
+<br>
+
+]]></pageText>
+
+<pageText><![CDATA[
+<font size="12">PRODUTOS</font>
+<br><br><br>
+<font color="#000000">
+<font size="10">>> AP 100;</font>                 <br><font color="#ffffff"><a href="asfunction:_root.more_click_func,0"><u>Mais...</u></a></font> <br><br>
+<font size="10">>> AP 100 MASTER;</font>   <br><font color="#ffffff"><a href="asfunction:_root.more_click_func,1"><u>Mais...</u></a></font> <br><br>
+<font size="10">>> CRUZEIRO; </font>           <br><font color="#ffffff"><a href="asfunction:_root.more_click_func,2"><u>Mais...</u></a></font> <br><br>
+<font size="10">>> SEED CONTROL;</font>    <br><font color="#ffffff"><a href="asfunction:_root.more_click_func,3"><u>Mais...</u></a></font> <br><br>
+</font>
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+<font size="12"color="#973126">AP 100</font>
+]]></item>
+<item name="linkText"><![CDATA[
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<img src="ap100.jpg" width="150" height="150" alt="Tamanho original" border="3"><font size="10" color="#ffffff"></font><p align="justify"> O AP100 AgroFar é um equipamento desenvolvido para a agricultura de precisão, que agrega tecnologia de ponta, gerando melhores resultados na produção agrícola.
+<br><br>
+O equipamento consiste em um computador de bordo, que processa e interpreta dados Geo-referenciados e dosa a aplicação de fertilizantes na quantia correta
+para cada área da lavoura. O resultado desse processo é a redução de custos; o equílibrio das propriedades do solo, de modo a homogeneizar a produção; bem
+como a redução dos impactos ambientais.
+<br><br>
+A interface simplificada do software permite ao operador acionar todas as funções pela tela touchscreen de 7 polegadas no computador de bordo.
+<br><br>
+O AP100 AgroFar pode ser instalado em todos os modelos de plantadeiras, semeadeiras, distribuidores de adubos e corretivos. É o único equipamento do
+mundo que integra o sistema de geração de mapas, mais o kit para coleta de solo* acoplado ao trator. Fator que determina o baixo custo de implementação
+da agricultura de precisão, pois dispensa a contratação de empresa terceirizada.</p>
+<br>
+<font color="#973126">Opcional e cobrado separadamente.</font>
+<br><br>
+<font color="#973126" size="12">Itens que acompanham o AP 100</font>
+<br><br>
+- Computador de Bordo com tela touch screen de 7 polegadas;<br>
+- Controladora AP 100;<br>
+- Antena e Receptor DGPS;<br>
+- Válvula controladora de vazão;<br>
+- Sensores de rotação e velocidade;<br>
+- Cabos, conexões, mangueiras e suportes para componentes elétricos e
+hidráulicos.</font>
+ 
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+<font size="12"color="#973126">AP 100 MASTER</font>
+]]></item>
+<item name="linkText"><![CDATA[
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<img src="ap100.jpg" width="150" height="150" alt="Tamanho original" border="3"><font size="10" color="#ffffff"></font><p align="justify"> O AP100 MASTER AgroFar é um equipamento desenvolvido para a agricultura de precisão, que agrega tecnologia de ponta, gerando melhores resultados na produção agrícola.
+<br><br>
+O equipamento consiste em um computador de bordo, que processa e interpreta dados Geo-referenciados e dosa a aplicação de fertilizantes na quantia correta
+para cada área da lavoura. O resultado desse processo é a redução de custos; o equílibrio das propriedades do solo, de modo a homogeneizar a produção; bem
+como a redução dos impactos ambientais.
+<br><br>
+A interface simplificada do software permite ao operador acionar todas as funções pela tela touchscreen de 7 polegadas no computador de bordo.
+<br><br>
+O AP100 MASTER AgroFar pode ser instalado em todos os modelos de plantadeiras, semeadeiras, distribuidores de adubos e corretivos. É o único
+equipamento do mundo que integra o sistema de geração de mapas, mais o kit para coleta de solo* acoplado ao trator. Fator que determina o baixo custo
+de implementação da agricultura de precisão, pois dispensa a contratação de empresa terceirizada.</p>
+<br>
+<font color="#973126">Opcional e cobrado separadamente.</font>
+<br><br>
+<font color="#973126" size="12">Itens que acompanham o AP 100 MASTER</font>
+<br><br>
+- Computador de Bordo com tela touch screen de 7 polegadas;<br>
+- Controladora AP 100;<br>
+- Antena e Receptor DGPS;<br>
+- Radiador Hidráulico com sistema completo de refrigeração;<br>
+- Válvula controladora de vazão;<br>
+- Sensores de rotação e velocidade;<br>
+- Cabos, conexões, mangueiras e suportes para componentes elétricos e
+hidráulicos.<br></font>
+ 
+]]></item>
+</link>
+
+ <link linkType="readMoreLink">
+<item name="title"><![CDATA[
+<font size="12"color="#973126">CRUZEIRO GPS Guia</font>
+]]></item>
+<item name="linkText"><![CDATA[
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<img src="cruzeiro.jpg" width="150" height="150" alt="Tamanho original" border="3"><font size="10" color="#ffffff"></font><p align="justify"> O CRUZEIRO AgroFar é um equipamento desenvolvido para a agricultura de recisão, que agrega tecnologia de ponta, gerando melhores resultados na produção agrícola.
+
+Sua principal finalidade é apontar uma estrada virtual que guiará o operador pelo talhão, bem como disponibilizar ao agricultor todo o histórico de trabalho,
+auxiliando no processo de controle de cada talhão através de mapas de aplicação.
+<br><br>
+O CRUZEIRO Agrofar GPS Guia gera um mapa detalhado de cada talhão com linhas de direcionamento para auxiliar o operador sobre o percurso correto de aplicação, bem como com informações de todos os pontos onde o produto foi aplicado e onde deve ser reaplicado. Esses mapas de aplicação gerados podem ser salvos e utilizados para construir um histórico de cada talhão.
+<br><br>
+O equipamento permite o controle de aplicação por usuário - o operador da máquina fica registrado para futura conferência – além da possibilidade de uso em conjunto com projeto de Taxa Variável da AgroFar, ampliando o controle e histórico de cada talhão.</p>
+<br><br>
+<font color="#973126" size="12">Itens que acompanham o CRUZEIRO</font>
+<br><br>
+- Computador de Bordo com tela touch screen de 7 polegadas;<br>
+- Antena e Receptor DGPS com 50 canais;<br>
+- Cabos, conexões e suporte para componentes elétricos.<br>
+<br></font>
+ 
+]]></item>
+</link>
+ 
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+<font size="12"color="#973126">SEED CONTROL</font>
+]]></item>
+<item name="linkText"><![CDATA[
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<img src="seed.jpg" width="150" height="150" alt="Tamanho original" border="3"><font size="10" color="#ffffff"></font><p align="justify"> O SEED CONTROL AgroFar é um equipamento desenvolvido para a agricultura de precisão, que agrega tecnologia de ponta, gerando melhores resultados na produção agrícola.
+<br><br>
+O equipamento foi desenvolvido para monitorar os eixos de distribuição da plantadeira, uma vez que 85% das falhas de distribuição ocorrem devido à queda
+das correntes.
+<br><br>
+Ao ocorrer a queda, o equipamento avisa o operador, através de sinal sonoro e visual, que há uma falha mecânica e aponta o setor exato. Dessa forma, o
+operador consegue monitorar os 4 eixos de distribuição da planateira, sendo 2 de sementes e 2 de adubos.
+<br><br>
+Este recurso elimina a necessidade do "rabicheiro" (pessoa que monitora o processo), evitando falhas na distribuição de sementes e adubos, bem como acidentes de trabalho.</p>
+<br><br>
+<font color="#973126" size="12">Itens que acompanham o SEED CONTROL</font>
+<br><br>
+- Monitor Seed Control.<br>
+- Sensores de rotação.<br>
+- Suporte para os sensores.<br>
+- Cabos e conexões.<br></font>
+ 
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="solutions">
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<image imageUrl="_pic3.png" link="asfunction:link"/>
+<image imageUrl="_pic4.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+SOLUTIONS SHOWCASE<br>
+<font color="#a6a291">DELIVERING SOLUTIONS THAT DRIVE BUSINESS RESULTS </font>
+<br><br>
+<font color="#a6a291"><u><a href="asfunction:link">VESTIBULUM LIBERO NISL, PORTA VEL, SCELERISQUE EGET,</a></u></font>
+<font color="#777777">
+ MALESUADA AT, NEQUE. VIVAMUS EGET NIBH. ETIAM CURSUS LEO VEL METUS. NULLA FACILISI. AENEAN NEC EROS. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE PHARETRA AUGUE NEC AUGUE. NAM ELIT MAGNA, HENDRERIT SIT AMET, TINCIDUNT AC, VIVERRA SED, NULLA. DONEC PORTA DIAM EU MASSA. QUISQUE DIAM LOREM. 
+</font>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<u><a href="asfunction:link">AP 100</a></u>
+<br><br>
+<font color="#010101">O AP100 AgroFar é um equipamento desenvolvido...  </font>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,0">Mais</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<u><a href="asfunction:link">CRUZEIRO GPS</a></u>
+<br><br>
+<font color="#010101">O CRUZEIRO AgroFar é um equipamento desenvolvido para a agricultura...  </font>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,1">Mais</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<u><a href="asfunction:link">SEED CONTROL</a></u>
+<br><br>
+<font color="#010101">O SEED CONTROL AgroFar é um equipamento desenvolvido para a agricultura...  </font>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,2">Mais</a></font>
+]]></pageText>
+
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+<font size="12"color="#973126">AP 100</font>
+]]></item>
+<item name="linkText"><![CDATA[
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<img src="ap100.jpg" width="150" height="150" alt="Tamanho original" border="3"><font size="10" color="#ffffff"></font><p align="justify"> O AP100 AgroFar é um equipamento desenvolvido para a agricultura de precisão, que agrega tecnologia de ponta, gerando melhores resultados na produção agrícola.
+<br><br>
+O equipamento consiste em um computador de bordo, que processa e interpreta dados Geo-referenciados e dosa a aplicação de fertilizantes na quantia correta
+para cada área da lavoura. O resultado desse processo é a redução de custos; o equílibrio das propriedades do solo, de modo a homogeneizar a produção; bem
+como a redução dos impactos ambientais.
+<br><br>
+A interface simplificada do software permite ao operador acionar todas as funções pela tela touchscreen de 7 polegadas no computador de bordo.
+<br><br>
+O AP100 AgroFar pode ser instalado em todos os modelos de plantadeiras, semeadeiras, distribuidores de adubos e corretivos. É o único equipamento do
+mundo que integra o sistema de geração de mapas, mais o kit para coleta de solo* acoplado ao trator. Fator que determina o baixo custo de implementação
+da agricultura de precisão, pois dispensa a contratação de empresa terceirizada.</p>
+<br>
+<font color="#973126">Opcional e cobrado separadamente.</font>
+<br><br>
+<font color="#973126" size="12">Itens que acompanham o AP 100</font>
+<br><br>
+- Computador de Bordo com tela touch screen de 7 polegadas;<br>
+- Controladora AP 100;<br>
+- Antena e Receptor DGPS;<br>
+- Válvula controladora de vazão;<br>
+- Sensores de rotação e velocidade;<br>
+- Cabos, conexões, mangueiras e suportes para componentes elétricos e
+hidráulicos.</font>
+ 
+]]></item>
+</link>
+
+
+ <link linkType="readMoreLink">
+<item name="title"><![CDATA[
+<font size="12"color="#973126">CRUZEIRO GPS Guia</font>
+]]></item>
+<item name="linkText"><![CDATA[
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<img src="cruzeiro.jpg" width="150" height="150" alt="Tamanho original" border="3"><font size="10" color="#ffffff"></font><p align="justify"> O CRUZEIRO AgroFar é um equipamento desenvolvido para a agricultura de recisão, que agrega tecnologia de ponta, gerando melhores resultados na produção agrícola.
+
+Sua principal finalidade é apontar uma estrada virtual que guiará o operador pelo talhão, bem como disponibilizar ao agricultor todo o histórico de trabalho,
+auxiliando no processo de controle de cada talhão através de mapas de aplicação.
+<br><br>
+O CRUZEIRO Agrofar GPS Guia gera um mapa detalhado de cada talhão com linhas de direcionamento para auxiliar o operador sobre o percurso correto de aplicação, bem como com informações de todos os pontos onde o produto foi aplicado e onde deve ser reaplicado. Esses mapas de aplicação gerados podem ser salvos e utilizados para construir um histórico de cada talhão.
+<br><br>
+O equipamento permite o controle de aplicação por usuário - o operador da máquina fica registrado para futura conferência – além da possibilidade de uso em conjunto com projeto de Taxa Variável da AgroFar, ampliando o controle e histórico de cada talhão.</p>
+<br><br>
+<font color="#973126" size="12">Itens que acompanham o CRUZEIRO</font>
+<br><br>
+- Computador de Bordo com tela touch screen de 7 polegadas;<br>
+- Antena e Receptor DGPS com 50 canais;<br>
+- Cabos, conexões e suporte para componentes elétricos.<br>
+<br></font>
+ 
+]]></item>
+</link>
+ 
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+<font size="12"color="#973126">SEED CONTROL</font>
+]]></item>
+<item name="linkText"><![CDATA[
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<img src="seed.jpg" width="150" height="150" alt="Tamanho original" border="3"><font size="10" color="#ffffff"></font><p align="justify"> O SEED CONTROL AgroFar é um equipamento desenvolvido para a agricultura de precisão, que agrega tecnologia de ponta, gerando melhores resultados na produção agrícola.
+<br><br>
+O equipamento foi desenvolvido para monitorar os eixos de distribuição da plantadeira, uma vez que 85% das falhas de distribuição ocorrem devido à queda
+das correntes.
+<br><br>
+Ao ocorrer a queda, o equipamento avisa o operador, através de sinal sonoro e visual, que há uma falha mecânica e aponta o setor exato. Dessa forma, o
+operador consegue monitorar os 4 eixos de distribuição da planateira, sendo 2 de sementes e 2 de adubos.
+<br><br>
+Este recurso elimina a necessidade do "rabicheiro" (pessoa que monitora o processo), evitando falhas na distribuição de sementes e adubos, bem como acidentes de trabalho.</p>
+<br><br>
+<font color="#973126" size="12">Itens que acompanham o SEED CONTROL</font>
+<br><br>
+- Monitor Seed Control.<br>
+- Sensores de rotação.<br>
+- Suporte para os sensores.<br>
+- Cabos e conexões.<br></font>
+ 
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="clients">
+<image imageUrl="_pic5.png" link="asfunction:link"/>
+<image imageUrl="_pic6.png" link="asfunction:link"/>
+<image imageUrl="_pic7.png" link="asfunction:link"/>
+<image imageUrl="_pic8.png" link="asfunction:link"/>
+<image imageUrl="_pic9.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+INDUSTRY SERVICES<br>
+<br><br>
+<font color="#777777">DONEC ACCUMSAN MALESUADA ORCI. DONEC SIT AMET EROS. LOREM IPSUM DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT. MAURIS FERMENTUM DICTUM MAGNA. SED LAOREET ALIQUAM LEO. UT TELLUS DOLOR, DAPIBUS EGET, ELEMENTUM VEL, CURSUS ELEIFEND, ELIT. AENEAN AUCTOR WISI ET URNA. ALIQUAM ERAT VOLUTPAT. DUIS AC TURPIS. INTEGER RUTRUM ANTE EU LACUS.</font>
+]]></pageText>
+
+
+
+<pageText><![CDATA[
+<font color="#616c65"><a href="asfunction:link">
+>> <u>SED IN LACUS UT ENIM ADIPISCING ALIQUET</u><br>
+>> <u>SUSPENDISSE SOLLICITUDIN VELIT SED LEO</u><br>
+>> <u>MAURIS ACCUMSAN NULLA VEL DIAM</u><br>
+>> <u>SED IN LACUS UT ENIM ADIPISCING ALIQUET</u><br>
+>> <u>SUSPENDISSE SOLLICITUDIN VELIT SED L</u><br>
+</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#616c65"><a href="asfunction:link">
+>> <u>SUSPENDISSE SOLLICITUDIN VELIT SED LEO</u><br>
+>> <u>QUIS AUTEM VEL EUM IURE REPREHENDERIT QUI</u><br>
+>> <u>NEQUE PORRO QUISQUAM EST, QUI DOLOREM </u><br>
+>> <u>SED IN LACUS UT ENIM ADIPISCING ALIQUET</u><br>
+>> <u>UT PHARETRA AUGUE NEC AUGUE</u><br>
+</a></font>
+]]></pageText>
+
+
+<pageText><![CDATA[
+OUR CLIENTS
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 1
+]]></item>
+<item name="linkText"><![CDATA[
+<font color="#ffffff">LOREM IPSUM DOLOR SIT AMET,</font> CONSECTETUR ADIPISCING ELIT. SUSPENDISSE A ANTE. INTEGER NON TORTOR. LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. NULLAM FAUCIBUS VEHICULA MI. NULLA VIVERRA, AUGUE A ACCUMSAN ULTRICES, LIBERO ARCU GRAVIDA VELIT, A SOLLICITUDIN DUI TURPIS EU FELIS. SED MI. IN FERMENTUM ARCU AUCTOR ERAT. NULLA VITAE EST. FUSCE ORNARE. DONEC MAGNA SEM, EUISMOD IN, LAOREET UT, ULLAMCORPER LOBORTIS, FELIS. ALIQUAM FERMENTUM RISUS AC AUGUE. CURABITUR FELIS. PELLENTESQUE IMPERDIET PURUS SIT AMET ENIM. NAM ACCUMSAN RHONCUS QUAM. SUSPENDISSE ET JUSTO.
+<br><br>
+<font color="#ffffff">ALIQUAM ERAT VOLUTPAT.</font> MAURIS PLACERAT, DIAM AT SODALES SUSCIPIT, ERAT ELIT PELLENTESQUE LIBERO, SIT AMET MATTIS NUNC LOREM ID FELIS. SED EST MAGNA, SOLLICITUDIN QUIS, SEMPER NEC, FERMENTUM IN, MAGNA. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE; QUISQUE MAGNA. MAECENAS VULPUTATE. SED MOLLIS AUCTOR NEQUE. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS. AENEAN EGET METUS EU NISL FRINGILLA DAPIBUS. NAM VITAE SEM EGET JUSTO ALIQUAM RHONCUS. IN HAC HABITASSE PLATEA DICTUMST.
+<br><br>
+<font color="#ffffff">VIVAMUS NUNC URNA, CONGUE UT,</font> ULLAMCORPER AT, LAOREET IN, EROS. MORBI PRETIUM NIBH VEL URNA. INTEGER MAGNA LIGULA, ADIPISCING NON, PULVINAR ET, PORTTITOR ID, NISI. ALIQUAM RUTRUM DUI EGET NUNC EGESTAS FAUCIBUS. VESTIBULUM MOLESTIE LACUS QUIS EST. NUNC CONGUE. DONEC LOREM MAGNA, SCELERISQUE QUIS, FERMENTUM ET, ULTRICIES SIT AMET, EST. VESTIBULUM VESTIBULUM INTERDUM MI. PELLENTESQUE CONDIMENTUM. SUSPENDISSE VITAE VELIT.
+<br><br>
+<font color="#ffffff">CRAS IN LOREM. PHASELLUS MAGNA NUNC,</font> SUSCIPIT EGET, PORTA UT, LOBORTIS IN, VELIT. SED HENDRERIT CURSUS DIAM. AENEAN A LEO. DONEC LECTUS. CURABITUR ULLAMCORPER, SEM AC TURPIS EGESTAS. UT EGET NUNC AC AUGUE GRAVIDA ELEIFEND. SED DIGNISSIM ANTE VOLUTPAT NIBH. PRAESENT DIAM. MAURIS PRETIUM ANTE EGET JUSTO FERMENTUM SODALES. CRAS QUIS SEM EU RISUS EGESTAS AUCTOR. ETIAM LIGULA. MORBI JUSTO. 
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 2
+]]></item>
+<item name="linkText"><![CDATA[
+<font color="#ffffff">LOREM IPSUM DOLOR SIT AMET,</font> CONSECTETUR ADIPISCING ELIT. SUSPENDISSE A ANTE. INTEGER NON TORTOR. LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. NULLAM FAUCIBUS VEHICULA MI. NULLA VIVERRA, AUGUE A ACCUMSAN ULTRICES, LIBERO ARCU GRAVIDA VELIT, A SOLLICITUDIN DUI TURPIS EU FELIS. SED MI. IN FERMENTUM ARCU AUCTOR ERAT. NULLA VITAE EST. FUSCE ORNARE. DONEC MAGNA SEM, EUISMOD IN, LAOREET UT, ULLAMCORPER LOBORTIS, FELIS. ALIQUAM FERMENTUM RISUS AC AUGUE. CURABITUR FELIS. PELLENTESQUE IMPERDIET PURUS SIT AMET ENIM. NAM ACCUMSAN RHONCUS QUAM. SUSPENDISSE ET JUSTO.
+<br><br>
+<font color="#ffffff">ALIQUAM ERAT VOLUTPAT.</font> MAURIS PLACERAT, DIAM AT SODALES SUSCIPIT, ERAT ELIT PELLENTESQUE LIBERO, SIT AMET MATTIS NUNC LOREM ID FELIS. SED EST MAGNA, SOLLICITUDIN QUIS, SEMPER NEC, FERMENTUM IN, MAGNA. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE; QUISQUE MAGNA. MAECENAS VULPUTATE. SED MOLLIS AUCTOR NEQUE. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS. AENEAN EGET METUS EU NISL FRINGILLA DAPIBUS. NAM VITAE SEM EGET JUSTO ALIQUAM RHONCUS. IN HAC HABITASSE PLATEA DICTUMST.
+<br><br>
+<font color="#ffffff">VIVAMUS NUNC URNA, CONGUE UT,</font> ULLAMCORPER AT, LAOREET IN, EROS. MORBI PRETIUM NIBH VEL URNA. INTEGER MAGNA LIGULA, ADIPISCING NON, PULVINAR ET, PORTTITOR ID, NISI. ALIQUAM RUTRUM DUI EGET NUNC EGESTAS FAUCIBUS. VESTIBULUM MOLESTIE LACUS QUIS EST. NUNC CONGUE. DONEC LOREM MAGNA, SCELERISQUE QUIS, FERMENTUM ET, ULTRICIES SIT AMET, EST. VESTIBULUM VESTIBULUM INTERDUM MI. PELLENTESQUE CONDIMENTUM. SUSPENDISSE VITAE VELIT.
+<br><br>
+<font color="#ffffff">CRAS IN LOREM. PHASELLUS MAGNA NUNC,</font> SUSCIPIT EGET, PORTA UT, LOBORTIS IN, VELIT. SED HENDRERIT CURSUS DIAM. AENEAN A LEO. DONEC LECTUS. CURABITUR ULLAMCORPER, SEM AC TURPIS EGESTAS. UT EGET NUNC AC AUGUE GRAVIDA ELEIFEND. SED DIGNISSIM ANTE VOLUTPAT NIBH. PRAESENT DIAM. MAURIS PRETIUM ANTE EGET JUSTO FERMENTUM SODALES. CRAS QUIS SEM EU RISUS EGESTAS AUCTOR. ETIAM LIGULA. MORBI JUSTO. 
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="contacts">
+
+<texts>
+
+<pageText><![CDATA[
+CONTATO
+]]></pageText>
+
+<pageText><![CDATA[
+<u>RESET</u>      <u>SEND</u>
+]]></pageText>
+
+<!-- -->  <pageText><![CDATA[
+<font color="#ffffff">OUR LOCATIONS</font>
+<br><br>
+<font color="#456e93"><u><a href="asfunction:link">JAPAN</a></u></font>
+<br>
+SUSPENDISSE SOLLICITUDIN VELIT SED LEO. UT PHARETRA AUGUE NEC AUGUE. NAM ELIT MAGNA, HENDRERIT SIT AMET, TINCIDUNT AC, VIVERRA SED, NULLA. DONEC PORTA DIAM EU MASSA. QUISQUE DIAM LOREM, INTERDUM VITAE, DAPIBUS AC, SCELERISQUE VITAE, PEDE. DONEC EGET TELLUS NON ERAT LACINIA FERMENTUM. DONEC IN VELIT VEL IPSUM AUCTOR PULVINAR. PROIN ULLAMCORPER URNA ET FELIS.
+]]></pageText>
+<pageText><![CDATA[
+<font color="#ffffff">ENDEREÇO</font>
+<br><br>
+AGROFAR AUTOMAÇÃO AGRICOLA
+<br><br>
+RUA AVELINO HOFSTAETTER, 96<br>
+JD. COOPAGRO, TOLEDO - PR.<br>
+BRASIL - CEP 85903-660
+<br><br>
+PHONE1:<br>+55 4503054.8888<br>
+
+<br><br>
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">fernando@bmcsap.com.br</a></u></font>
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 1
+]]></item>
+<item name="linkText"><![CDATA[
+<font color="#ffffff">LOREM IPSUM DOLOR SIT AMET,</font> CONSECTETUR ADIPISCING ELIT. SUSPENDISSE A ANTE. INTEGER NON TORTOR. LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. NULLAM FAUCIBUS VEHICULA MI. NULLA VIVERRA, AUGUE A ACCUMSAN ULTRICES, LIBERO ARCU GRAVIDA VELIT, A SOLLICITUDIN DUI TURPIS EU FELIS. SED MI. IN FERMENTUM ARCU AUCTOR ERAT. NULLA VITAE EST. FUSCE ORNARE. DONEC MAGNA SEM, EUISMOD IN, LAOREET UT, ULLAMCORPER LOBORTIS, FELIS. ALIQUAM FERMENTUM RISUS AC AUGUE. CURABITUR FELIS. PELLENTESQUE IMPERDIET PURUS SIT AMET ENIM. NAM ACCUMSAN RHONCUS QUAM. SUSPENDISSE ET JUSTO.
+<br><br>
+<font color="#ffffff">ALIQUAM ERAT VOLUTPAT.</font> MAURIS PLACERAT, DIAM AT SODALES SUSCIPIT, ERAT ELIT PELLENTESQUE LIBERO, SIT AMET MATTIS NUNC LOREM ID FELIS. SED EST MAGNA, SOLLICITUDIN QUIS, SEMPER NEC, FERMENTUM IN, MAGNA. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE; QUISQUE MAGNA. MAECENAS VULPUTATE. SED MOLLIS AUCTOR NEQUE. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS. AENEAN EGET METUS EU NISL FRINGILLA DAPIBUS. NAM VITAE SEM EGET JUSTO ALIQUAM RHONCUS. IN HAC HABITASSE PLATEA DICTUMST.
+<br><br>
+<font color="#ffffff">VIVAMUS NUNC URNA, CONGUE UT,</font> ULLAMCORPER AT, LAOREET IN, EROS. MORBI PRETIUM NIBH VEL URNA. INTEGER MAGNA LIGULA, ADIPISCING NON, PULVINAR ET, PORTTITOR ID, NISI. ALIQUAM RUTRUM DUI EGET NUNC EGESTAS FAUCIBUS. VESTIBULUM MOLESTIE LACUS QUIS EST. NUNC CONGUE. DONEC LOREM MAGNA, SCELERISQUE QUIS, FERMENTUM ET, ULTRICIES SIT AMET, EST. VESTIBULUM VESTIBULUM INTERDUM MI. PELLENTESQUE CONDIMENTUM. SUSPENDISSE VITAE VELIT.
+<br><br>
+<font color="#ffffff">CRAS IN LOREM. PHASELLUS MAGNA NUNC,</font> SUSCIPIT EGET, PORTA UT, LOBORTIS IN, VELIT. SED HENDRERIT CURSUS DIAM. AENEAN A LEO. DONEC LECTUS. CURABITUR ULLAMCORPER, SEM AC TURPIS EGESTAS. UT EGET NUNC AC AUGUE GRAVIDA ELEIFEND. SED DIGNISSIM ANTE VOLUTPAT NIBH. PRAESENT DIAM. MAURIS PRETIUM ANTE EGET JUSTO FERMENTUM SODALES. CRAS QUIS SEM EU RISUS EGESTAS AUCTOR. ETIAM LIGULA. MORBI JUSTO. 
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 2
+]]></item>
+<item name="linkText"><![CDATA[
+<font color="#ffffff">LOREM IPSUM DOLOR SIT AMET,</font> CONSECTETUR ADIPISCING ELIT. SUSPENDISSE A ANTE. INTEGER NON TORTOR. LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. NULLAM FAUCIBUS VEHICULA MI. NULLA VIVERRA, AUGUE A ACCUMSAN ULTRICES, LIBERO ARCU GRAVIDA VELIT, A SOLLICITUDIN DUI TURPIS EU FELIS. SED MI. IN FERMENTUM ARCU AUCTOR ERAT. NULLA VITAE EST. FUSCE ORNARE. DONEC MAGNA SEM, EUISMOD IN, LAOREET UT, ULLAMCORPER LOBORTIS, FELIS. ALIQUAM FERMENTUM RISUS AC AUGUE. CURABITUR FELIS. PELLENTESQUE IMPERDIET PURUS SIT AMET ENIM. NAM ACCUMSAN RHONCUS QUAM. SUSPENDISSE ET JUSTO.
+<br><br>
+<font color="#ffffff">ALIQUAM ERAT VOLUTPAT.</font> MAURIS PLACERAT, DIAM AT SODALES SUSCIPIT, ERAT ELIT PELLENTESQUE LIBERO, SIT AMET MATTIS NUNC LOREM ID FELIS. SED EST MAGNA, SOLLICITUDIN QUIS, SEMPER NEC, FERMENTUM IN, MAGNA. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE; QUISQUE MAGNA. MAECENAS VULPUTATE. SED MOLLIS AUCTOR NEQUE. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS. AENEAN EGET METUS EU NISL FRINGILLA DAPIBUS. NAM VITAE SEM EGET JUSTO ALIQUAM RHONCUS. IN HAC HABITASSE PLATEA DICTUMST.
+<br><br>
+<font color="#ffffff">VIVAMUS NUNC URNA, CONGUE UT,</font> ULLAMCORPER AT, LAOREET IN, EROS. MORBI PRETIUM NIBH VEL URNA. INTEGER MAGNA LIGULA, ADIPISCING NON, PULVINAR ET, PORTTITOR ID, NISI. ALIQUAM RUTRUM DUI EGET NUNC EGESTAS FAUCIBUS. VESTIBULUM MOLESTIE LACUS QUIS EST. NUNC CONGUE. DONEC LOREM MAGNA, SCELERISQUE QUIS, FERMENTUM ET, ULTRICIES SIT AMET, EST. VESTIBULUM VESTIBULUM INTERDUM MI. PELLENTESQUE CONDIMENTUM. SUSPENDISSE VITAE VELIT.
+<br><br>
+<font color="#ffffff">CRAS IN LOREM. PHASELLUS MAGNA NUNC,</font> SUSCIPIT EGET, PORTA UT, LOBORTIS IN, VELIT. SED HENDRERIT CURSUS DIAM. AENEAN A LEO. DONEC LECTUS. CURABITUR ULLAMCORPER, SEM AC TURPIS EGESTAS. UT EGET NUNC AC AUGUE GRAVIDA ELEIFEND. SED DIGNISSIM ANTE VOLUTPAT NIBH. PRAESENT DIAM. MAURIS PRETIUM ANTE EGET JUSTO FERMENTUM SODALES. CRAS QUIS SEM EU RISUS EGESTAS AUCTOR. ETIAM LIGULA. MORBI JUSTO. 
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+<!-- privacy policy -->
+<section name="privacyPolicy">
+<item name="pageTitle"><![CDATA[
+PRIVACY POLICY
+]]></item>
+<item name="pageText"><![CDATA[
+<font color="#ffffff">LOREM IPSUM DOLOR SIT AMET,</font> CONSECTETUR ADIPISCING ELIT. SUSPENDISSE A ANTE. INTEGER NON TORTOR. LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. NULLAM FAUCIBUS VEHICULA MI. NULLA VIVERRA, AUGUE A ACCUMSAN ULTRICES, LIBERO ARCU GRAVIDA VELIT, A SOLLICITUDIN DUI TURPIS EU FELIS. SED MI. IN FERMENTUM ARCU AUCTOR ERAT. NULLA VITAE EST. FUSCE ORNARE. DONEC MAGNA SEM, EUISMOD IN, LAOREET UT, ULLAMCORPER LOBORTIS, FELIS. ALIQUAM FERMENTUM RISUS AC AUGUE. CURABITUR FELIS. PELLENTESQUE IMPERDIET PURUS SIT AMET ENIM. NAM ACCUMSAN RHONCUS QUAM. SUSPENDISSE ET JUSTO.
+<br><br>
+<font color="#ffffff">ALIQUAM ERAT VOLUTPAT.</font> MAURIS PLACERAT, DIAM AT SODALES SUSCIPIT, ERAT ELIT PELLENTESQUE LIBERO, SIT AMET MATTIS NUNC LOREM ID FELIS. SED EST MAGNA, SOLLICITUDIN QUIS, SEMPER NEC, FERMENTUM IN, MAGNA. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE; QUISQUE MAGNA. MAECENAS VULPUTATE. SED MOLLIS AUCTOR NEQUE. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS. AENEAN EGET METUS EU NISL FRINGILLA DAPIBUS. NAM VITAE SEM EGET JUSTO ALIQUAM RHONCUS. IN HAC HABITASSE PLATEA DICTUMST.
+<br><br>
+<font color="#ffffff">VIVAMUS NUNC URNA, CONGUE UT,</font> ULLAMCORPER AT, LAOREET IN, EROS. MORBI PRETIUM NIBH VEL URNA. INTEGER MAGNA LIGULA, ADIPISCING NON, PULVINAR ET, PORTTITOR ID, NISI. ALIQUAM RUTRUM DUI EGET NUNC EGESTAS FAUCIBUS. VESTIBULUM MOLESTIE LACUS QUIS EST. NUNC CONGUE. DONEC LOREM MAGNA, SCELERISQUE QUIS, FERMENTUM ET, ULTRICIES SIT AMET, EST. VESTIBULUM VESTIBULUM INTERDUM MI. PELLENTESQUE CONDIMENTUM. SUSPENDISSE VITAE VELIT.
+<br><br>
+<font color="#ffffff">CRAS IN LOREM. PHASELLUS MAGNA NUNC,</font> SUSCIPIT EGET, PORTA UT, LOBORTIS IN, VELIT. SED HENDRERIT CURSUS DIAM. AENEAN A LEO. DONEC LECTUS. CURABITUR ULLAMCORPER, SEM AC TURPIS EGESTAS. UT EGET NUNC AC AUGUE GRAVIDA ELEIFEND. SED DIGNISSIM ANTE VOLUTPAT NIBH. PRAESENT DIAM. MAURIS PRETIUM ANTE EGET JUSTO FERMENTUM SODALES. CRAS QUIS SEM EU RISUS EGESTAS AUCTOR. ETIAM LIGULA. MORBI JUSTO. 
+]]></item>
+</section>
+<!-- privacy policy -->
+
+
+<!-- terms of use -->
+<section name="termsOfUse">
+<item name="pageTitle"><![CDATA[
+TERMS OF USE
+]]></item>
+<item name="pageText"><![CDATA[
+<font color="#ffffff">LOREM IPSUM DOLOR SIT AMET,</font> CONSECTETUR ADIPISCING ELIT. SUSPENDISSE A ANTE. INTEGER NON TORTOR. LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. NULLAM FAUCIBUS VEHICULA MI. NULLA VIVERRA, AUGUE A ACCUMSAN ULTRICES, LIBERO ARCU GRAVIDA VELIT, A SOLLICITUDIN DUI TURPIS EU FELIS. SED MI. IN FERMENTUM ARCU AUCTOR ERAT. NULLA VITAE EST. FUSCE ORNARE. DONEC MAGNA SEM, EUISMOD IN, LAOREET UT, ULLAMCORPER LOBORTIS, FELIS. ALIQUAM FERMENTUM RISUS AC AUGUE. CURABITUR FELIS. PELLENTESQUE IMPERDIET PURUS SIT AMET ENIM. NAM ACCUMSAN RHONCUS QUAM. SUSPENDISSE ET JUSTO.
+<br><br>
+<font color="#ffffff">ALIQUAM ERAT VOLUTPAT.</font> MAURIS PLACERAT, DIAM AT SODALES SUSCIPIT, ERAT ELIT PELLENTESQUE LIBERO, SIT AMET MATTIS NUNC LOREM ID FELIS. SED EST MAGNA, SOLLICITUDIN QUIS, SEMPER NEC, FERMENTUM IN, MAGNA. VESTIBULUM ANTE IPSUM PRIMIS IN FAUCIBUS ORCI LUCTUS ET ULTRICES POSUERE CUBILIA CURAE; QUISQUE MAGNA. MAECENAS VULPUTATE. SED MOLLIS AUCTOR NEQUE. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS. AENEAN EGET METUS EU NISL FRINGILLA DAPIBUS. NAM VITAE SEM EGET JUSTO ALIQUAM RHONCUS. IN HAC HABITASSE PLATEA DICTUMST.
+<br><br>
+<font color="#ffffff">VIVAMUS NUNC URNA, CONGUE UT,</font> ULLAMCORPER AT, LAOREET IN, EROS. MORBI PRETIUM NIBH VEL URNA. INTEGER MAGNA LIGULA, ADIPISCING NON, PULVINAR ET, PORTTITOR ID, NISI. ALIQUAM RUTRUM DUI EGET NUNC EGESTAS FAUCIBUS. VESTIBULUM MOLESTIE LACUS QUIS EST. NUNC CONGUE. DONEC LOREM MAGNA, SCELERISQUE QUIS, FERMENTUM ET, ULTRICIES SIT AMET, EST. VESTIBULUM VESTIBULUM INTERDUM MI. PELLENTESQUE CONDIMENTUM. SUSPENDISSE VITAE VELIT.
+<br><br>
+<font color="#ffffff">CRAS IN LOREM. PHASELLUS MAGNA NUNC,</font> SUSCIPIT EGET, PORTA UT, LOBORTIS IN, VELIT. SED HENDRERIT CURSUS DIAM. AENEAN A LEO. DONEC LECTUS. CURABITUR ULLAMCORPER, SEM AC TURPIS EGESTAS. UT EGET NUNC AC AUGUE GRAVIDA ELEIFEND. SED DIGNISSIM ANTE VOLUTPAT NIBH. PRAESENT DIAM. MAURIS PRETIUM ANTE EGET JUSTO FERMENTUM SODALES. CRAS QUIS SEM EU RISUS EGESTAS AUCTOR. ETIAM LIGULA. MORBI JUSTO. 
+]]></item>
+</section>
+<!-- terms of use -->
+
+
+	
+</content>

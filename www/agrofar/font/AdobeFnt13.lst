@@ -1,0 +1,119 @@
+%!Adobe-FontList 1.13
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\ok\wilson\WEB\sites flash\ABC Flash + Xml\Font\Dodger.zip
+FileModTime:1284120840
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\ok\wilson\WEB\sites flash\ABC Flash + Xml\Font\standard 07_65.zip
+FileModTime:1284120928
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\ok\wilson\WEB\sites flash\ABC Flash + Xml\Font\Tahoma.zip
+FileModTime:1284120956
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tahoma
+FamilyName:Tahoma
+StyleName:Regular
+FullName:Tahoma
+MenuName:Tahoma
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\ok\wilson\WEB\sites flash\ABC Flash + Xml\Font\Tahoma.ttf
+DataFormat:sfntData
+FileLength:198864
+FileModTime:1029633554
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Dodger
+FamilyName:Dodger
+StyleName:Regular
+FullName:Dodger
+MenuName:Dodger
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\ok\wilson\WEB\sites flash\ABC Flash + Xml\Font\Dodger.ttf
+DataFormat:sfntData
+FileLength:11032
+FileModTime:935522274
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Standard0765
+FamilyName:standard 07_65
+StyleName:Regular
+FullName:standard 07_65
+MenuName:standard 07_65
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\ok\wilson\WEB\sites flash\ABC Flash + Xml\Font\standard 07_65.ttf
+DataFormat:sfntData
+FileLength:56456
+FileModTime:1006181072
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Standard0755
+FamilyName:standard 07_55
+StyleName:Regular
+FullName:standard 07_55
+MenuName:standard 07_55
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\ok\wilson\WEB\sites flash\ABC Flash + Xml\Font\stan0755.ttf
+DataFormat:sfntData
+FileLength:25648
+FileModTime:1295432822
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Essai
+FamilyName:Essai
+StyleName:Regular
+FullName:Essai
+MenuName:Essai
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\ok\wilson\WEB\sites flash\ABC Flash + Xml\Font\Essai.ttf
+DataFormat:sfntData
+FileLength:39236
+FileModTime:1059799628
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
