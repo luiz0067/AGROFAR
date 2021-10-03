@@ -1,0 +1,88 @@
+.topo {
+	BORDER-TOP-WIDTH: 0px; CLEAR: right; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px top; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND-ATTACHMENT: scroll; LEFT: -3px; BACKGROUND-IMAGE: url(imagens/repeat_v.gif); BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-x; POSITION: relative; TOP: 0px; HEIGHT: 60px; BORDER-RIGHT-WIDTH: 0px
+}
+.barratopo {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 192px top; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND-ATTACHMENT: scroll; LEFT: 0px; FLOAT: left; BACKGROUND-IMAGE: url(imagens/barratop.gif); VISIBILITY: visible; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: visible; WIDTH: 778px; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-x; POSITION: relative; TOP: 0px; HEIGHT: 60px; BORDER-RIGHT-WIDTH: 0px
+}
+.barraesq {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: left 50px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; BACKGROUND-IMAGE: url(imagens/bg_menu2.gif); BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 149px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 100%; BACKGROUND-COLOR: #dbd7c4; BORDER-RIGHT-WIDTH: 0px
+}
+.menu {
+	BORDER-TOP-WIDTH: 0px; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 0px; WORD-SPACING: normal; VERTICAL-ALIGN: text-top; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px
+}
+.submenu {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 1em; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 9px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #dbd7c4; TEXT-INDENT: -1em; LINE-HEIGHT: 12pt; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LIST-STYLE-TYPE: none; BACKGROUND-COLOR: #877c3d; BORDER-RIGHT-WIDTH: 0px
+}
+.submaior {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 29px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #877c3d
+}
+.chamadas {
+	PADDING-RIGHT: 0px; LIST-STYLE: none url(imagens/seta_txt.gif) outside; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #877c3d; PADDING-TOP: 0px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-VARIANT: normal
+}
+.texto {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; COLOR: #000000; PADDING-TOP: 0px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.setas {
+	FONT-WEIGHT: bold; FONT-SIZE: 4pt; COLOR: #433e1f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.txtdourado {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #877c3d; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.txtmenor {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.botao {
+	BACKGROUND-POSITION: center center; FONT-WEIGHT: normal; FONT-SIZE: 10px; BACKGROUND-ATTACHMENT: scroll; BACKGROUND-IMAGE: url(imagens/botao.gif); COLOR: #003c2f; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.negrito {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.numeros {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #877c3d; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.txtmenordourado {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #acad81; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: right
+}
+.brancomenor {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.branco {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.verdebarra {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #003c2f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.titulopagina {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.subtitpag {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.titverde {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 6px; COLOR: #003c2f; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.subsubtit {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #877c3d; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.cota_1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #877c3d; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.cota_2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #003c2f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bginterna {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: scroll; BACKGROUND-IMAGE: url(imagens/texsec2.gif); BACKGROUND-REPEAT: no-repeat
+}
+.bgcell {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: scroll; BACKGROUND-IMAGE: url(imagens/bg_inter.jpg); BACKGROUND-REPEAT: repeat
+}
+.subativo {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #003c2f; LINE-HEIGHT: 13pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.menuativo {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003c2f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bgformcontato {
+	BORDER-RIGHT: #c3bd9e 1px solid; BORDER-TOP: #c3bd9e 1px solid; BORDER-LEFT: #c3bd9e 1px solid; BORDER-BOTTOM: #c3bd9e 1px solid; BACKGROUND-COLOR: #ffffff
+}

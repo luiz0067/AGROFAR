@@ -1,0 +1,220 @@
+/* TAGS */
+input:focus, select:focus, textarea:focus {
+  background:red;
+  color:white; 
+  }
+form, div 
+{
+    margin: 2px;
+    padding: 0px;
+}
+
+body, td, p
+{
+    font-family: Tahoma, Verdana, Arial, Helvetica;
+    font-size: 11px;
+    color: #666666;
+}
+
+h2
+{
+    font-family: Arial, Helvetica;
+    font-size: 14px;
+    color: #666666;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+ul
+{
+    list-style-image:  url(file:///C|/Documents%20and%20Settings/vic/Configura%E7%F5es%20locais/Temporary%20Internet%20Files/Content.IE5/K024LQH3/images/marcador.gif);
+    list-style-position: inside;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+li
+{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-indent: 0px;
+}
+
+
+input, textarea
+{
+    font-family: Tahoma, Verdana, Arial, Helvetica;
+    font-size: 11px;
+    color: #666666;
+    
+}
+input:button
+{
+    font-family: Tahoma, Verdana, Arial, Helvetica;
+    font-size: 9px;
+    color: #666666;
+    
+}
+
+select
+{
+    font-family: Tahoma, Verdana, Arial, Helvetica;
+    font-size: 11px;
+    color: #666666;
+    border-width: 1px;
+    background-color: #F7F7F7;
+}
+
+/* CLASSES */
+.text
+{
+    background-color: #F7F7F7;
+}
+
+.texto
+{
+    line-height: 15px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.margem20 
+{
+    margin: 0px;
+    padding-left: 20px;
+}
+
+.comentario
+{
+    margin: 0px;
+    color: #E2562A;
+}
+
+.text_grande
+{
+    height: 25px;
+    border: 1px solid #CC0000;
+    padding: 5px;
+}
+
+.atencao
+{
+    color: #E2562A;
+    font-weight: bold;
+}
+
+.linha1
+{
+    border-top: 1px solid #CCCCCC;
+    padding: 4px;    
+}
+
+.linha2
+{
+    border-top: 1px solid #CCCCCC;
+    padding: 4px;  
+    background-color: #FFFFFF;  
+}
+
+
+a:link
+{
+    text-decoration: none;
+    color: #D00000;
+}
+
+a:visited
+{
+    text-decoration: none;
+    color: #D00000;
+}
+
+a:active
+{
+    text-decoration: none;
+    color: #D00000;   
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: #D00000;
+}
+
+
+a.sitemap_root:link
+{
+    text-decoration: none;
+    color: #666666;
+    font-weight: bold;
+}
+
+a.sitemap_root:visited
+{
+    text-decoration: none;
+    color: #666666;
+    font-weight: bold;
+}
+
+a.sitemap_root:active
+{
+    text-decoration: none;
+    color: #666666; 
+    font-weight: bold;  
+}
+
+a.sitemap_root:hover
+{
+    text-decoration: none;
+    color: #D00000;
+    font-weight: bold;
+}
+
+a.sitemap_node:link
+{
+    text-decoration: none;
+    color: #666666;
+}
+
+a.sitemap_node:visited
+{
+    text-decoration: none;
+    color: #666666;
+}
+
+a.sitemap_node:active
+{
+    text-decoration: none;
+    color: #666666; 
+}
+
+a.sitemap_node:hover
+{
+    text-decoration: none;
+    color: #D00000;
+}
+.botao  {
+position:absolute;
+top:20px;
+left:50px;
+margin:0px;
+padding:0px;
+        }
+
+.botao a, .botao a:visited {  
+font: bold 12px/24px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:#fff;
+background: #666 url('../imagens/botao_link.gif') no-repeat center center;	
+width:120px;  
+height:24px;	
+display:block;	
+	}
+
+.botao a:hover { 
+background: #666 url('../imagens/botao_hover.gif') no-repeat center center;
+color:#999;
+  }
+
