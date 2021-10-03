@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<style type="text/css">
+body {
+  border:0;
+  overflow:	hidden;
+  margin: 0;
+  font:	MessageBox;
+  background-color:buttonface;
+}
+
+.brder {
+    border: 1px inset buttonhighlight;  
+	margin-left: 2px; 
+	margin-right: 5px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+table, td {
+    font-family: "MS Sans Serif";
+	font-size: 9pt;
+}
+
+input.buttons {
+  font-weight: normal; 
+  font-size: 8pt; 
+  font-style: normal; 
+  font-family: "MS Sans Serif", Arial, Tahoma,sans-serif;
+  width: 75px;
+}
+
+</style>
+<script>
+function getInfoAndUpdate()
+{
+   if (isNaN(formNumRows.value))
+   {
+      alert ("The rows field can only contain numbers");
+      return;
+   }
+   else if (isNaN(formNumCols.value))
+   {
+      alert ("The colums field can only contain numbers");
+      return;
+   }
+   var callerWindowObj = dialogArguments;
+   callerWindowObj.rtNumRows = formNumRows.value;
+   callerWindowObj.rtNumCols = formNumCols.value;
+   callerWindowObj.rtTblAlign = formTblAlign.value;
+   callerWindowObj.rtTblWidth = formTblWidth.value;
+   callerWindowObj.rtspacing = formspacing.value;
+   callerWindowObj.rtpadding = formpadding.value;
+   callerWindowObj.rtbrdsize = formbordersize.value;
+   callerWindowObj.createTable();
+   window.close();
+}
+</script>
+<title>Propiedades da Tabela</title>
+</head>
+<body>
+<table border="0" cellspacing="5" cellpadding="4" width="95%" align="center">
+<tr>
+ <td>
+  <fieldset style="padding-bottom:5px">
+      <legend>Tamanho</legend>
+      da Tabela<br>
+  <table border="0" cellspacing="0" cellpadding="0" width="95%" align="center">
+   <tr>
+          <td width="25%">Linhas:</td>
+    <td width="25%"><input type="text" size="2" value="1" id="formNumRows"><br></td>
+          <td width="25%">Colunas:</td>
+    <td width="25%"><input type="text" size="2" value="1" id="formNumCols"><br></td>
+   </tr>
+  </table>
+ </fieldset>
+ </td>
+</tr>
+<tr>
+ <td>
+  <fieldset style="padding-bottom:5px">
+      <legend>Atributos da Tabela</legend>
+      <br>
+  <table border="0" cellspacing="0" cellpadding="0" width="95%" align="center">
+   <tr>
+          <td width="25%">Largura:</td>
+    <td width="25%">
+     <select id="formTblWidth">
+	<option value="10%">10%</option>
+	<option value="20%">20%</option>
+        <option value="30%">30%</option>
+        <option value="40%">40%</option>
+        <option value="50%">50%</option>
+        <option value="60%">60%</option>
+        <option value="70%">70%</option>
+        <option value="80%">80%</option>
+        <option value="90%">90%</option>
+        <option selected value="100%">100%</option>
+        </select> 
+    </td>
+          <td width="25%">Enchimento de C&eacute;lula:</td>
+    <td width="25%">
+     <select id="formbordersize">
+	<option value="0">0</option>
+	<option SELECTED value="1">1</option>
+	<option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+     </select>
+     </td>
+   </tr>
+   <tr>
+          <td width="25%">Borda:</td>
+    <td width="25%">
+    <select id="formpadding">
+	<option selected value="0">0</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        </select> 
+    </td>
+          <td width="25%">Espa&ccedil;amento de C&eacute;lula:</td>
+    <td width="25%">
+     <select id="formspacing">
+	<option selected value="0">0</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        </select>
+     </td>
+   </tr>
+   </table>
+ </fieldset>
+ </td>
+</tr>
+<tr>
+ <td>
+  <fieldset style="padding-bottom:5px">
+      <legend></legend>
+      <br>
+  <table border="0" cellspacing="0" cellpadding="0" width="95%" align="center">
+   <tr>
+          <td width="25%">Alinhamento :</td>
+    <td width="25%">
+	<select id="formTblAlign">
+	<option value="left">Direita</option>
+	<option selected value="center">Centro</option>
+	<option value="right">Esquerda</option>
+	</select></td>
+   </tr>
+  </table>
+ </fieldset>
+ </td>
+</tr>
+<tr>
+ <td>
+  <table border="0" cellspacing="0" cellpadding="0" width="95%" align="center">
+   <tr>
+    <td width="100%" colspan="4" align="right">
+	<input type="button" value="Ok" class="buttons" onclick="getInfoAndUpdate();">
+	&nbsp;&nbsp;&nbsp;
+	<input type="button" value="Cancelar" class="buttons" onClick="window.close();">
+	</td>
+   </tr>
+  </table>
+ </td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
