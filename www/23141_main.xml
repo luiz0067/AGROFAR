@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" charset="UTF-8"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">true</item>
+		<item name="copyright"><![CDATA[
+ You Name (C) 2009   Name
+		]]></item>
+		<item name="companyName"><![CDATA[Agro<font color="#A2C02F">far</font>]]></item>
+		<item name="slogan">AUTOMACAO AGRICOLA</item>
+		<item name="heder_txt1"><![CDATA[<a href="www.studiomidiamix.com.br" target="_blank"type="link" ></a>]]></item>
+		<item name="heder_txt2"><![CDATA[<a href="asfunction:link"></a>]]></item>
+		<image imageUrl="_logo.png" />
+	</section>
+	
+	<!-- menu -->
+<section name="menu">
+<link systemOrder="1"><![CDATA[
+<font size="15"> A Empresa  </font>
+]]></link>
+
+<link systemOrder="2"><![CDATA[
+<font size="15"> Produtos e <br>Soluções </font>
+]]></link>
+
+<link systemOrder="3"><![CDATA[
+<font size="15"> 
+Agricultura <br>de Precisão </font>
+]]></link>
+
+<link systemOrder="4"><![CDATA[
+<font size="15"> Canal Agrofar </font>
+]]></link>
+
+<link systemOrder="5"><![CDATA[
+<font size="15"> Atendimento <br>ao Cliente </font>
+]]></link>
+
+</section>
+	
+<section name="global_img">
+		<image imageUrl="_big_pic1.jpg" />
+		<image imageUrl="_big_pic2.jpg" />
+		<image imageUrl="_big_pic3.jpg" />
+		<image imageUrl="_big_pic4.jpg" />
+		<image imageUrl="_big_pic5.jpg" />
+		<image imageUrl="_big_pic6.jpg" />
+		
+				
+		<image imageUrl="_menu_pic1.png" />
+		<image imageUrl="_menu_pic2.png" />
+		<image imageUrl="_menu_pic3.png" />
+		<image imageUrl="_menu_pic4.png" />
+		<image imageUrl="_menu_pic5.png" />
+
+</section>	
+	
+	<!-- pages -->
+	<section name="pages">
+		
+		 
+<page name="EMPRESA">
+<image imageUrl="_pic1.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+]]></pageText>
+
+<pageText><![CDATA[
+<font size="16"><font color="#45196F">A Empresa</font></font>
+<br><br>
+<font color="#666666">A AGROFAR é uma empresa brasileira, porém, com tecnologia e soluções inovadoras que podem ser adotadas em qualquer região produtora do mundo, obtendo-se os melhores resultados no sistema da Agricultura de Precisão.</font>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<font size="16"><font color="#45196F">A Empresa </font></font>
+<br><br>
+<font color="#666666">A AGROFAR é uma empresa brasileira, porém, com tecnologia e soluções inovadoras que podem ser adotadas em qualquer região produtora do mundo, obtendo-se os melhores resultados no sistema da Agricultura de Precisão.</font>
+]]></pageText>
+
+<pageText><![CDATA[
+]]></pageText>
+
+<pageText><![CDATA[
+<font size="16"><font color="#45196F">Conheça nossa História </font></font>
+<br><br>
+<font color="#666666">Situada na cidade de Toledo, considerada a "Capital do Agronegócio do Paraná", estado 
+localizado no Sul do Brasil, portanto, em uma das regiões que é referência mundial no setor agrícola...<font color="#A2C02F"><a href="asfunction:_root.more_click_func,0">Leia mais!</a></font></font> 
+<br><br>
+<font size="16"><font color="#45196F">Nossa Missão </font></font>
+<br><br>
+<font color="#666666">Oferecer produtos agrícolas de alta tecnologia e fácil operacionalização com objetivo de aumentar a competitividade da agricultura latino-americana, reduzir os impactos ambientais na atividade e gerar resultados para todas as partes envolvidas no processo.</font>
+<br><br>
+<font size="16"><font color="#45196F">Nossa Visão </font></font>
+<br><br>
+<font color="#666666">Ser uma empresa de referência no sistema de Agricultura de Precisão, e superar os padrões consagrados de excelência em pesquisa, desenvolvimento, implantação de projetos e na aplicação de tecnologias agrícolas inovadoras que gerem soluções e que agreguem resultado na atividade agrícola.</font>
+</font>
+<br><br>
+<font size="16"><font color="#45196F">Nossos Valores </font></font>
+<br><br>
+<font color="#666666"><font color="#666666">
+1. Profissionalismo de Alta performance <br>
+2. Proximidade ao cliente e Comprometimento <br>
+3. Inovação <br>
+4. Adicionar valor <br>
+5. Respeito <br>
+6. Responsabilidade <br>
+7. Sustentabilidade</font>
+</font>
+]]></pageText>
+
+<pageText><![CDATA[
+]]></pageText>
+
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+]]></item>
+<item name="linkText"><![CDATA[ 
+<font size="16"><font color="#45196F">Conheça nossa História </font></font>
+<br><br>
+<font color="#666666">Situada na cidade de Toledo, considerada a "Capital do Agronegócio do Paraná", estado 
+localizado no Sul do Brasil, portanto, em uma das regiões que é referência mundial no setor agrícola, a AGROFAR 
+desenvolveu equipamentos modernos que são verdadeiras soluções práticas e inovadoras para a Agricultura de Precisão. 
+Dessa forma, a linha de produtos da AGROFAR contribui para tornar a agricultura um negócio cada vez mais sustentável 
+e de ótimos resultados.<br><br>
+A empresa surgiu de um estudo acadêmico relacionado à Agricultura de Precisão, quando um dos seus sócios-fundadores 
+percebeu que seria uma grande oportunidade de negócio disponibilizar tecnologia para esse sistema, atualmente adotado 
+por muitas propriedades rurais no Brasil e em vários outros países produtores de grãos e sementes. Está comprovado que 
+esses recursos tecnológicos já se tornaram imprescindíveis para aumentar a rentabilidade da agricultura, 
+além de resultarem em uma menor agressão ao meio ambiente e em melhores resultados ao agronegócio. Dessa forma,
+ a AGROFAR desenvolveu produtos focados nas necessidades de seus clientes, com vistas a estabelecer com eles uma 
+ relação de parceria.
+</font>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+]]></item>
+<item name="linkText"><![CDATA[
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="Served">
+
+<texts>
+
+<pageText><![CDATA[
+<font size="16"><font color="#45196F">Produtos e Soluções </font></font>
+<br><br>
+<font size="13"><font color="#A2C02F">As principais vantagens</font></font><br><br><font color="#666666">Todos os equipamentos integrantes da Linha Taxa Variável EVOLUTION AP da AGROFAR são munidos de computador de bordo com tela touch screen de 7", o que facilita o seu manuseio, e sistema hidráulico independente. Trata-se de uma tecnologia moderna e eficiente com alto custo-benefício. Toda a regulagem é feita apenas digitando a quantia de fertilizantes e sementes no computador de bordo, o que elimina as correntes nas plantadeiras. A utilização dos equipamentos proporciona um aumento de até 30% na produtividade e significativa redução nos custos com insumos [Fonte: EMBRAPA], pois permite a correção e o equilíbrio do solo, causando menos impacto ambiental e reduzindo o custo com fertilizantes. E a produção torna-se homogênea em toda a área de cultivo, o que aumenta a produtividade.</font>
+<br><br><br><br>
+<font size="16"><font color="#A2C02F">Diferenciais</font></font>
+<br><br>
+<font color="#666666">
+•	Assistência técnica local.<br>
+•	Software totalmente nacional.<br>
+•	Precisão na distribuição das sementes e fertilizantes.<br>
+•	Todas as funções de acionamento do equipamento são realizadas através do computador de bordo, como acionamento das seções, alteração da taxa a ser aplicada, quantia de sementes, etc.<br>
+</font>
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#000000">
+<font size="18"><font color="#ffffff"><a href="./html/default.asp?pg=produtos&nome=AP 100"><u> > AP 100</u></a></font></font> <br><br>
+<font size="18"><font color="#ffffff"><a href="./html/default.asp?pg=produtos&nome=AP 200"><u> > AP 200</u></a></font></font> <br><br>
+<font size="18"><font color="#ffffff"><a href="./html/default.asp?pg=produtos&nome=AP 300"><u> > AP 300</u></a></font></font> <br><br>
+<font size="18"><font color="#ffffff"><a href="./html/default.asp?pg=produtos&nome=AP 400"><u> > AP 400</u></a></font></font> <br><br><br><br><br>
+<font size="18"><font color="#ffffff"><a href="./html/default.asp?pg=produtos&nome=GPS GUIA AGROFAR"><u> > GPS Guia</u></a></font></font> <br><br>
+</font>
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[ 
+]]></item>
+</link>
+
+ <link linkType="readMoreLink">
+<item name="title"><![CDATA[
+]]></item>
+</link>
+ 
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[ 
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+<page name="solutions">
+
+<texts>
+
+<pageText><![CDATA[
+
+
+
+
+<font size="16"><font color="#45196F">A Agricultura de Precisão </font></font>
+<br><br>
+<font color="#666666">A Agricultura de Precisão pode ser considerada como um amplo conceito, 
+englobando tecnologias e novos conhecimentos de informática, eletrônica, geoprocessamento, 
+dentre outros. Esse sistema incorpora um grande número de conhecimentos científicos e alta 
+tecnologia, apresentando ao produtor novos termos, conceitos, equipamentos e tecnologias...
+<font color="#A2C02F"><a href="./html/default.asp?pg=noticias">Leia mais!</a></font></font> 
+<br><br>
+<font size="16"><font color="#45196F">GPS e a Agricultura de Precisão </font></font>
+<br><br>
+<font color="#666666">O uso de GPS na agricultura possibilita uma abordagem localizada 
+dos problemas dentro da propriedade rural. O alto custo de aquisição e uso dessas ferramentas 
+tem detido um pleno avanço da Agricultura de Precisão no Brasil...<font color="#A2C02F">
+<a href="./html/default.asp?pg=gps_e_agricultura">Leia mais!</a></font></font>
+<br><br>
+<font size="16"><font color="#45196F">O sistema GPS </font></font>
+<br><br>
+<font color="#666666">O Sistema de Posicionamento Global (Global Positioning System - GPS) 
+foi criado pelo governo dos Estados Unidos com o objetivo principal de localizar suas tropas 
+em qualquer lugar da terra. É constituído de 24 satélites, dos quais 21 são de uso corrente 
+...<font color="#A2C02F"><a href="./html/default.asp?pg=o_sistema_gps">Leia mais!</a></font></font>
+<br><br>
+<font size="16"><font color="#45196F">A Agricultura de Precisão e a Sustentabilidade </font></font>
+<br><br>
+<font color="#666666">A Agricultura de Precisão não consiste simplesmente na habilidade em 
+aplicar tratamentos que variam de local para local, porém, ela deve ser considerada com a 
+habilidade em monitorar e acessar a atividade agrícola, precisamente em um nível local, 
+tanto que as técnicas de agricultura de precisão devem ser compreendidas como uma forma 
+de manejo sustentável...<font color="#A2C02F"><a href="./html/default.asp?pg=sustentabilidade">Leia mais!</a>
+</font></font>
+
+]]></pageText>
+
+
+<pageText><![CDATA[
+]]></pageText>
+
+<pageText><![CDATA[
+]]></pageText>
+
+<pageText><![CDATA[
+]]></pageText>
+
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+]]></item>
+</link>
+
+
+ <link linkType="readMoreLink">
+<item name="title"><![CDATA[
+]]></item>
+</link>
+ 
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="clients">
+
+<texts>
+
+<pageText><![CDATA[
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 1
+]]></item>
+<item name="linkText"><![CDATA[
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 2
+]]></item>
+<item name="linkText"><![CDATA[
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="contacts">
+
+<texts>
+
+<pageText><![CDATA[ 
+]]></pageText>
+
+<pageText><![CDATA[ 
+]]></pageText>
+
+<!-- -->  <pageText><![CDATA[
+
+]]></pageText>
+
+<pageText><![CDATA[
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+]]></item>
+<item name="linkText"><![CDATA[
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+]]></item>
+<item name="linkText"><![CDATA[
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+<!-- privacy policy -->
+<section name="privacyPolicy">
+<item name="pageTitle"><![CDATA[
+]]></item>
+</section>
+<!-- privacy policy -->
+
+
+<!-- terms of use -->
+<section name="termsOfUse">
+<item name="pageTitle"><![CDATA[
+]]></item>
+</section>
+<!-- terms of use -->
+
+
+	
+</content>
